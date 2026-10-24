@@ -1,0 +1,585 @@
+[
+    {
+      "displaytext": "Esc",
+      "outputchar": "**esc",
+      "coordinates": [40, 60],
+      "width": 120,
+      "height": 50
+    },
+    {
+      "displaytext": "F1",
+      "outputchar": "**f1",
+      "coordinates": [160, 60],
+      "width": 90,
+      "height": 50
+    },
+    {
+      "displaytext": "F2",
+      "outputchar": "**f2",
+      "coordinates": [250, 60],
+      "width": 90,
+      "height": 50
+    },
+    {
+      "displaytext": "F3",
+      "outputchar": "**f3",
+      "coordinates": [340, 60],
+      "width": 90,
+      "height": 50
+    },
+    {
+      "displaytext": "F4",
+      "outputchar": "**f4",
+      "coordinates": [430, 60],
+      "width": 90,
+      "height": 50
+    },
+    {
+      "displaytext": "F5",
+      "outputchar": "**f5",
+      "coordinates": [520, 60],
+      "width": 90,
+      "height": 50
+    },
+    {
+      "displaytext": "F6",
+      "outputchar": "**f6",
+      "coordinates": [610, 60],
+      "width": 90,
+      "height": 50
+    },
+    {
+      "displaytext": "F7",
+      "outputchar": "**f7",
+      "coordinates": [700, 60],
+      "width": 90,
+      "height": 50
+    },
+    {
+      "displaytext": "F8",
+      "outputchar": "**f8",
+      "coordinates": [790, 60],
+      "width": 90,
+      "height": 50
+    },
+    {
+      "displaytext": "F9",
+      "outputchar": "**f9",
+      "coordinates": [880, 60],
+      "width": 90,
+      "height": 50
+    },
+    {
+      "displaytext": "F10",
+      "outputchar": "**f10",
+      "coordinates": [970, 60],
+      "width": 90,
+      "height": 50
+    },
+    {
+      "displaytext": "F11",
+      "outputchar": "**f11",
+      "coordinates": [1060, 60],
+      "width": 90,
+      "height": 50
+    },
+    {
+      "displaytext": "F12",
+      "outputchar": "**f12",
+      "coordinates": [1150, 60],
+      "width": 90,
+      "height": 50
+    },
+    {
+      "displaytext": "`",
+      "outputchar": "`",
+      "coordinates": [40, 110]
+    },
+    {
+      "displaytext": "1",
+      "outputchar": "1",
+      "coordinates": [120, 110]
+    },
+    {
+      "displaytext": "2",
+      "outputchar": "2",
+      "coordinates": [200, 110]
+    },
+    {
+      "displaytext": "3",
+      "outputchar": "3",
+      "coordinates": [280, 110]
+    },
+    {
+      "displaytext": "4",
+      "outputchar": "4",
+      "coordinates": [360, 110]
+    },
+    {
+      "displaytext": "5",
+      "outputchar": "5",
+      "coordinates": [440, 110]
+    },
+    {
+      "displaytext": "6",
+      "outputchar": "6",
+      "coordinates": [520, 110]
+    },
+    {
+      "displaytext": "7",
+      "outputchar": "7",
+      "coordinates": [600, 110]
+    },
+    {
+      "displaytext": "8",
+      "outputchar": "8",
+      "coordinates": [680, 110]
+    },
+    {
+      "displaytext": "9",
+      "outputchar": "9",
+      "coordinates": [760, 110]
+    },
+    {
+      "displaytext": "0",
+      "outputchar": "0",
+      "coordinates": [840, 110]
+    },
+    {
+      "displaytext": "-",
+      "outputchar": "-",
+      "coordinates": [920, 110]
+    },
+    {
+      "displaytext": "=",
+      "outputchar": "=",
+      "coordinates": [1000, 110]
+    },
+    {
+      "displaytext": "Delete",
+      "outputchar": "**backspace",
+      "coordinates": [1080, 110],
+      "width": 160
+    },
+    {
+      "displaytext": "Tab",
+      "outputchar": "**tab",
+      "coordinates": [40, 190],
+      "width": 120
+    },
+    {
+      "displaytext": "Q",
+      "outputchar": "q",
+      "coordinates": [160, 190]
+    },
+    {
+      "displaytext": "W",
+      "outputchar": "w",
+      "coordinates": [240, 190]
+    },
+    {
+      "displaytext": "E",
+      "outputchar": "e",
+      "coordinates": [320, 190]
+    },
+    {
+      "displaytext": "R",
+      "outputchar": "r",
+      "coordinates": [400, 190]
+    },
+    {
+      "displaytext": "T",
+      "outputchar": "t",
+      "coordinates": [480, 190]
+    },
+    {
+      "displaytext": "Y",
+      "outputchar": "y",
+      "coordinates": [560, 190]
+    },
+    {
+      "displaytext": "U",
+      "outputchar": "u",
+      "coordinates": [640, 190]
+    },
+    {
+      "displaytext": "I",
+      "outputchar": "i",
+      "coordinates": [720, 190]
+    },
+    {
+      "displaytext": "O",
+      "outputchar": "o",
+      "coordinates": [800, 190]
+    },
+    {
+      "displaytext": "P",
+      "outputchar": "p",
+      "coordinates": [880, 190]
+    },
+    {
+      "displaytext": "[",
+      "outputchar": "[",
+      "coordinates": [960, 190]
+    },
+    {
+      "displaytext": "]",
+      "outputchar": "]",
+      "coordinates": [1040, 190]
+    },
+    {
+      "displaytext": "\\",
+      "outputchar": "\\",
+      "coordinates": [1120, 190],
+      "width": 120
+    },
+    {
+      "displaytext": "Caps",
+      "outputchar": "**caps_lock",
+      "coordinates": [40, 270],
+      "width": 140
+    },
+    {
+      "displaytext": "A",
+      "outputchar": "a",
+      "coordinates": [180, 270]
+    },
+    {
+      "displaytext": "S",
+      "outputchar": "s",
+      "coordinates": [260, 270]
+    },
+    {
+      "displaytext": "D",
+      "outputchar": "d",
+      "coordinates": [340, 270]
+    },
+    {
+      "displaytext": "F",
+      "outputchar": "f",
+      "coordinates": [420, 270]
+    },
+    {
+      "displaytext": "G",
+      "outputchar": "g",
+      "coordinates": [500, 270]
+    },
+    {
+      "displaytext": "H",
+      "outputchar": "h",
+      "coordinates": [580, 270]
+    },
+    {
+      "displaytext": "J",
+      "outputchar": "j",
+      "coordinates": [660, 270]
+    },
+    {
+      "displaytext": "K",
+      "outputchar": "k",
+      "coordinates": [740, 270]
+    },
+    {
+      "displaytext": "L",
+      "outputchar": "l",
+      "coordinates": [820, 270]
+    },
+    {
+      "displaytext": ";",
+      "outputchar": ";",
+      "coordinates": [900, 270]
+    },
+    {
+      "displaytext": "'",
+      "outputchar": "'",
+      "coordinates": [980, 270]
+    },
+    {
+      "displaytext": "Enter",
+      "outputchar": "**enter",
+      "coordinates": [1060, 270],
+      "width": 180
+    },
+    {
+      "displaytext": "Shift",
+      "outputchar": "**shift_l",
+      "coordinates": [40, 350],
+      "width": 180
+    },
+    {
+      "displaytext": "Z",
+      "outputchar": "z",
+      "coordinates": [220, 350]
+    },
+    {
+      "displaytext": "X",
+      "outputchar": "x",
+      "coordinates": [300, 350]
+    },
+    {
+      "displaytext": "C",
+      "outputchar": "c",
+      "coordinates": [380, 350]
+    },
+    {
+      "displaytext": "V",
+      "outputchar": "v",
+      "coordinates": [460, 350]
+    },
+    {
+      "displaytext": "B",
+      "outputchar": "b",
+      "coordinates": [540, 350]
+    },
+    {
+      "displaytext": "N",
+      "outputchar": "n",
+      "coordinates": [620, 350]
+    },
+    {
+      "displaytext": "M",
+      "outputchar": "m",
+      "coordinates": [700, 350]
+    },
+    {
+      "displaytext": ",",
+      "outputchar": ",",
+      "coordinates": [780, 350]
+    },
+    {
+      "displaytext": ".",
+      "outputchar": ".",
+      "coordinates": [860, 350]
+    },
+    {
+      "displaytext": "/",
+      "outputchar": "/",
+      "coordinates": [940, 350]
+    },
+    {
+      "displaytext": "Shift",
+      "outputchar": "**shift_r",
+      "coordinates": [1020, 350],
+      "width": 220
+    },
+    {
+      "displaytext": "Ctrl",
+      "outputchar": "**ctrl",
+      "coordinates": [40, 430],
+      "width": 120
+    },
+    {
+      "displaytext": "Alt",
+      "outputchar": "**alt_l",
+      "coordinates": [160, 430],
+      "width": 100
+    },
+    {
+      "displaytext": "Cmd",
+      "outputchar": "**cmd_l",
+      "coordinates": [260, 430],
+      "width": 120
+    },
+    {
+      "displaytext": "Space",
+      "outputchar": "**space",
+      "coordinates": [380, 430],
+      "width": 420
+    },
+    {
+      "displaytext": "Cmd",
+      "outputchar": "**cmd_r",
+      "coordinates": [800, 430],
+      "width": 100
+    },
+    {
+      "displaytext": "Alt",
+      "outputchar": "**alt_r",
+      "coordinates": [900, 430],
+      "width": 100
+    },
+    {
+      "displaytext": "←",
+      "outputchar": "**left",
+      "coordinates": [1000, 470],
+      "height": 40
+    },
+    {
+      "displaytext": "↑",
+      "outputchar": "**up",
+      "coordinates": [1080, 430],
+      "height": 40
+    },
+    {
+      "displaytext": "↓",
+      "outputchar": "**down",
+      "coordinates": [1080, 470],
+      "height": 40
+    },
+    {
+      "displaytext": "→",
+      "outputchar": "**right",
+      "coordinates": [1160, 470],
+      "height": 40
+    },
+    {
+      "displaytext": "F13",
+      "outputchar": "**f13",
+      "coordinates": [1280, 60],
+      "height": 50
+    },
+    {
+      "displaytext": "F14",
+      "outputchar": "**f14",
+      "coordinates": [1360, 60],
+      "height": 50
+    },
+    {
+      "displaytext": "F15",
+      "outputchar": "**f15",
+      "coordinates": [1440, 60],
+      "height": 50
+    },
+    {
+      "displaytext": "Home",
+      "outputchar": "**home",
+      "coordinates": [1280, 110], 
+      "width": 160
+    },
+    {
+      "displaytext": "P. ↑",
+      "outputchar": "**page_up",
+      "coordinates": [1440, 110]
+    },
+    {
+      "displaytext": "Del",
+      "outputchar": "**delete",
+      "coordinates": [1280, 190]
+    },
+    {
+      "displaytext": "End",
+      "outputchar": "**end",
+      "coordinates": [1360, 190]
+    },
+    {
+      "displaytext": "P. ↓",
+      "outputchar": "**page_down",
+      "coordinates": [1440, 190]
+    },
+    {
+      "displaytext": "F16",
+      "outputchar": "**f16",
+      "coordinates": [1560, 60],
+      "height": 50
+    },
+    {
+      "displaytext": "F17",
+      "outputchar": "**f17",
+      "coordinates": [1640, 60],
+      "height": 50
+    },
+    {
+      "displaytext": "F18",
+      "outputchar": "**f18",
+      "coordinates": [1720, 60],
+      "height": 50
+    },
+    {
+      "displaytext": "F19",
+      "outputchar": "**f19",
+      "coordinates": [1800, 60],
+      "height": 50
+    },
+    {
+      "displaytext": "Clear",
+      "outputchar": "",
+      "coordinates": [1560, 110]
+    },
+    {
+      "displaytext": "=",
+      "outputchar": "=",
+      "coordinates": [1640, 110]
+    },
+    {
+      "displaytext": "/",
+      "outputchar": "/",
+      "coordinates": [1720, 110]
+    },
+    {
+      "displaytext": "*",
+      "outputchar": "*",
+      "coordinates": [1800, 110]
+    },
+    {
+      "displaytext": "7",
+      "outputchar": "7",
+      "coordinates": [1560, 190]
+    },
+    {
+      "displaytext": "8",
+      "outputchar": "8",
+      "coordinates": [1640, 190]
+    },
+    {
+      "displaytext": "9",
+      "outputchar": "9",
+      "coordinates": [1720, 190]
+    },
+    {
+      "displaytext": "-",
+      "outputchar": "-",
+      "coordinates": [1800, 190]
+    },
+    {
+      "displaytext": "4",
+      "outputchar": "4",
+      "coordinates": [1560, 270]
+    },
+    {
+      "displaytext": "5",
+      "outputchar": "5",
+      "coordinates": [1640, 270]
+    },
+    {
+      "displaytext": "6",
+      "outputchar": "6",
+      "coordinates": [1720, 270]
+    },
+    {
+      "displaytext": "+",
+      "outputchar": "+",
+      "coordinates": [1800, 270]
+    },
+    {
+      "displaytext": "1",
+      "outputchar": "1",
+      "coordinates": [1560, 350]
+    },
+    {
+      "displaytext": "2",
+      "outputchar": "2",
+      "coordinates": [1640, 350]
+    },
+    {
+      "displaytext": "3",
+      "outputchar": "3",
+      "coordinates": [1720, 350]
+    },
+    {
+      "displaytext": "↵",
+      "outputchar": "**enter",
+      "coordinates": [1800, 350],
+      "height": 160
+    },
+    {
+      "displaytext": "0",
+      "outputchar": "0",
+      "coordinates": [1560, 430],
+      "width": 160
+    },
+    {
+      "displaytext": ".",
+      "outputchar": ".",
+      "coordinates": [1720, 430]
+    }
+  ]
