@@ -1,0 +1,425 @@
+[
+    {
+      "displaytext": "Esc",
+      "outputchar": "**esc",
+      "coordinates": [360, 60],
+      "width": 120,
+      "height": 50
+    },
+    {
+      "displaytext": "F1",
+      "outputchar": "**f1",
+      "coordinates": [480, 60],
+      "width": 90,
+      "height": 50
+    },
+    {
+      "displaytext": "F2",
+      "outputchar": "**f2",
+      "coordinates": [570, 60],
+      "width": 90,
+      "height": 50
+    },
+    {
+      "displaytext": "F3",
+      "outputchar": "**f3",
+      "coordinates": [660, 60],
+      "width": 90,
+      "height": 50
+    },
+    {
+      "displaytext": "F4",
+      "outputchar": "**f4",
+      "coordinates": [750, 60],
+      "width": 90,
+      "height": 50
+    },
+    {
+      "displaytext": "F5",
+      "outputchar": "**f5",
+      "coordinates": [840, 60],
+      "width": 90,
+      "height": 50
+    },
+    {
+      "displaytext": "F6",
+      "outputchar": "**f6",
+      "coordinates": [930, 60],
+      "width": 90,
+      "height": 50
+    },
+    {
+      "displaytext": "F7",
+      "outputchar": "**f7",
+      "coordinates": [1020, 60],
+      "width": 90,
+      "height": 50
+    },
+    {
+      "displaytext": "F8",
+      "outputchar": "**f8",
+      "coordinates": [1110, 60],
+      "width": 90,
+      "height": 50
+    },
+    {
+      "displaytext": "F9",
+      "outputchar": "**f9",
+      "coordinates": [1200, 60],
+      "width": 90,
+      "height": 50
+    },
+    {
+      "displaytext": "F10",
+      "outputchar": "**f10",
+      "coordinates": [1290, 60],
+      "width": 90,
+      "height": 50
+    },
+    {
+      "displaytext": "F11",
+      "outputchar": "**f11",
+      "coordinates": [1380, 60],
+      "width": 90,
+      "height": 50
+    },
+    {
+      "displaytext": "F12",
+      "outputchar": "**f12",
+      "coordinates": [1470, 60],
+      "width": 90,
+      "height": 50
+    },
+    {
+      "displaytext": "`",
+      "outputchar": "`",
+      "coordinates": [360, 110]
+    },
+    {
+      "displaytext": "1",
+      "outputchar": "1",
+      "coordinates": [440, 110]
+    },
+    {
+      "displaytext": "2",
+      "outputchar": "2",
+      "coordinates": [520, 110]
+    },
+    {
+      "displaytext": "3",
+      "outputchar": "3",
+      "coordinates": [600, 110]
+    },
+    {
+      "displaytext": "4",
+      "outputchar": "4",
+      "coordinates": [680, 110]
+    },
+    {
+      "displaytext": "5",
+      "outputchar": "5",
+      "coordinates": [760, 110]
+    },
+    {
+      "displaytext": "6",
+      "outputchar": "6",
+      "coordinates": [840, 110]
+    },
+    {
+      "displaytext": "7",
+      "outputchar": "7",
+      "coordinates": [920, 110]
+    },
+    {
+      "displaytext": "8",
+      "outputchar": "8",
+      "coordinates": [1000, 110]
+    },
+    {
+      "displaytext": "9",
+      "outputchar": "9",
+      "coordinates": [1080, 110]
+    },
+    {
+      "displaytext": "0",
+      "outputchar": "0",
+      "coordinates": [1160, 110]
+    },
+    {
+      "displaytext": "-",
+      "outputchar": "-",
+      "coordinates": [1240, 110]
+    },
+    {
+      "displaytext": "=",
+      "outputchar": "=",
+      "coordinates": [1320, 110]
+    },
+    {
+      "displaytext": "Delete",
+      "outputchar": "**backspace",
+      "coordinates": [1400, 110],
+      "width": 160
+    },
+    {
+      "displaytext": "Tab",
+      "outputchar": "**tab",
+      "coordinates": [360, 190],
+      "width": 120
+    },
+    {
+      "displaytext": "Q",
+      "outputchar": "q",
+      "coordinates": [480, 190]
+    },
+    {
+      "displaytext": "W",
+      "outputchar": "w",
+      "coordinates": [560, 190]
+    },
+    {
+      "displaytext": "E",
+      "outputchar": "e",
+      "coordinates": [640, 190]
+    },
+    {
+      "displaytext": "R",
+      "outputchar": "r",
+      "coordinates": [720, 190]
+    },
+    {
+      "displaytext": "T",
+      "outputchar": "t",
+      "coordinates": [800, 190]
+    },
+    {
+      "displaytext": "Y",
+      "outputchar": "y",
+      "coordinates": [880, 190]
+    },
+    {
+      "displaytext": "U",
+      "outputchar": "u",
+      "coordinates": [960, 190]
+    },
+    {
+      "displaytext": "I",
+      "outputchar": "i",
+      "coordinates": [1040, 190]
+    },
+    {
+      "displaytext": "O",
+      "outputchar": "o",
+      "coordinates": [1120, 190]
+    },
+    {
+      "displaytext": "P",
+      "outputchar": "p",
+      "coordinates": [1200, 190]
+    },
+    {
+      "displaytext": "[",
+      "outputchar": "[",
+      "coordinates": [1280, 190]
+    },
+    {
+      "displaytext": "]",
+      "outputchar": "]",
+      "coordinates": [1360, 190]
+    },
+    {
+      "displaytext": "\\",
+      "outputchar": "\\",
+      "coordinates": [1440, 190],
+      "width": 120
+    },
+    {
+      "displaytext": "Caps",
+      "outputchar": "**caps_lock",
+      "coordinates": [360, 270],
+      "width": 140
+    },
+    {
+      "displaytext": "A",
+      "outputchar": "a",
+      "coordinates": [500, 270]
+    },
+    {
+      "displaytext": "S",
+      "outputchar": "s",
+      "coordinates": [580, 270]
+    },
+    {
+      "displaytext": "D",
+      "outputchar": "d",
+      "coordinates": [660, 270]
+    },
+    {
+      "displaytext": "F",
+      "outputchar": "f",
+      "coordinates": [740, 270]
+    },
+    {
+      "displaytext": "G",
+      "outputchar": "g",
+      "coordinates": [820, 270]
+    },
+    {
+      "displaytext": "H",
+      "outputchar": "h",
+      "coordinates": [900, 270]
+    },
+    {
+      "displaytext": "J",
+      "outputchar": "j",
+      "coordinates": [980, 270]
+    },
+    {
+      "displaytext": "K",
+      "outputchar": "k",
+      "coordinates": [1060, 270]
+    },
+    {
+      "displaytext": "L",
+      "outputchar": "l",
+      "coordinates": [1140, 270]
+    },
+    {
+      "displaytext": ";",
+      "outputchar": ";",
+      "coordinates": [1220, 270]
+    },
+    {
+      "displaytext": "'",
+      "outputchar": "'",
+      "coordinates": [1300, 270]
+    },
+    {
+      "displaytext": "Enter",
+      "outputchar": "**enter",
+      "coordinates": [1380, 270],
+      "width": 180
+    },
+    {
+      "displaytext": "Shift",
+      "outputchar": "**shift_l",
+      "coordinates": [360, 350],
+      "width": 180
+    },
+    {
+      "displaytext": "Z",
+      "outputchar": "z",
+      "coordinates": [540, 350]
+    },
+    {
+      "displaytext": "X",
+      "outputchar": "x",
+      "coordinates": [620, 350]
+    },
+    {
+      "displaytext": "C",
+      "outputchar": "c",
+      "coordinates": [700, 350]
+    },
+    {
+      "displaytext": "V",
+      "outputchar": "v",
+      "coordinates": [780, 350]
+    },
+    {
+      "displaytext": "B",
+      "outputchar": "b",
+      "coordinates": [860, 350]
+    },
+    {
+      "displaytext": "N",
+      "outputchar": "n",
+      "coordinates": [940, 350]
+    },
+    {
+      "displaytext": "M",
+      "outputchar": "m",
+      "coordinates": [1020, 350]
+    },
+    {
+      "displaytext": ",",
+      "outputchar": ",",
+      "coordinates": [1100, 350]
+    },
+    {
+      "displaytext": ".",
+      "outputchar": ".",
+      "coordinates": [1180, 350]
+    },
+    {
+      "displaytext": "/",
+      "outputchar": "/",
+      "coordinates": [1260, 350]
+    },
+    {
+      "displaytext": "Shift",
+      "outputchar": "**shift_r",
+      "coordinates": [1340, 350],
+      "width": 220
+    },
+    {
+      "displaytext": "Ctrl",
+      "outputchar": "**ctrl",
+      "coordinates": [360, 430],
+      "width": 120
+    },
+    {
+      "displaytext": "Alt",
+      "outputchar": "**alt_l",
+      "coordinates": [480, 430],
+      "width": 100
+    },
+    {
+      "displaytext": "Cmd",
+      "outputchar": "**cmd_l",
+      "coordinates": [580, 430],
+      "width": 120
+    },
+    {
+      "displaytext": "Space",
+      "outputchar": "**space",
+      "coordinates": [700, 430],
+      "width": 420
+    },
+    {
+      "displaytext": "Cmd",
+      "outputchar": "**cmd_r",
+      "coordinates": [1120, 430],
+      "width": 100
+    },
+    {
+      "displaytext": "Alt",
+      "outputchar": "**alt_r",
+      "coordinates": [1220, 430],
+      "width": 100
+    },
+    {
+      "displaytext": "←",
+      "outputchar": "**left",
+      "coordinates": [1320, 470],
+      "height": 40
+    },
+    {
+      "displaytext": "↑",
+      "outputchar": "**up",
+      "coordinates": [1400, 430],
+      "height": 40
+    },
+    {
+      "displaytext": "↓",
+      "outputchar": "**down",
+      "coordinates": [1400, 470],
+      "height": 40
+    },
+    {
+      "displaytext": "→",
+      "outputchar": "**right",
+      "coordinates": [1480, 470],
+      "height": 40
+    }
+  ]
